@@ -1,0 +1,21 @@
+<div class="container">
+  <div>
+    <mat-form-field>
+      <mat-label>Location</mat-label>
+      <input matInput placeholder="Placeholder" />
+      <mat-icon matSuffix>location_on</mat-icon>
+      <mat-hint>City</mat-hint>
+    </mat-form-field>
+    <mat-form-field>
+      <mat-label>Choose a date</mat-label>
+      <input matInput [matDatepicker]="picker" />
+      <mat-hint>MM/DD/YYYY</mat-hint>
+      <mat-datepicker-toggle
+        matIconSuffix
+        [for]="picker"
+      ></mat-datepicker-toggle>
+      <mat-datepicker #picker></mat-datepicker>
+    </mat-form-field>
+    <button mat-raised-button color="accent">Search</button>
+  </div>
+</div>
