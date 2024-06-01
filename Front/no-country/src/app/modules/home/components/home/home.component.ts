@@ -8,17 +8,12 @@ import { ProductComponent } from '../product/product.component';
   selector: 'app-home',
   templateUrl: './home.component.html',
   styleUrls: ['./home.component.css'],
-  imports: [
-    SearchBarComponent,
-    CategoryComponent,
-    ProductComponent
-  ]
+  imports: [SearchBarComponent, CategoryComponent, ProductComponent],
 })
 export class HomeComponent implements OnInit {
 
-  constructor() { }
+  constructor() {}
 
   ngOnInit() {
   }
-
 }
