@@ -1,0 +1,13 @@
+.container {
+  background: linear-gradient(270.02deg, #7ebfbf 24.28%, #b2cce3 99.79%);
+  padding: 2.5rem 0;
+}
+
+.container > div {
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
