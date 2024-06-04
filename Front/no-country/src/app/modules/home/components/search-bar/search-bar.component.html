@@ -8,13 +8,13 @@
     </mat-form-field>
     <mat-form-field>
       <mat-label>Escoge un día</mat-label>
-      <input matInput [matDatepicker]="picker" />
+      <input matInput [matDatepicker]="dp" />
       <mat-hint>MM/DD/AAAA</mat-hint>
       <mat-datepicker-toggle
         matIconSuffix
-        [for]="picker"
+        [for]="dp"
       ></mat-datepicker-toggle>
-      <mat-datepicker #picker></mat-datepicker>
+      <mat-datepicker #dp></mat-datepicker>
     </mat-form-field>
     <button mat-raised-button color="accent">Search</button>
   </div>
