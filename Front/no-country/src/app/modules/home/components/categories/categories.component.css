@@ -1,0 +1,17 @@
+section {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+h2{
+  text-align: start;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0;
+}
