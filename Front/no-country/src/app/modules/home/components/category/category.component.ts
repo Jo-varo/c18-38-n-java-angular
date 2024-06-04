@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
   standalone: true,
@@ -7,6 +7,9 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./category.component.css']
 })
 export class CategoryComponent implements OnInit {
+
+  @Input() categoryName:string = 'Category name';
+  @Input() imgUrl:string = 'https://elolivar.es/olivar-content/uploads/2023/04/oficiante-de-bodas.png';
 
   constructor() { }
 

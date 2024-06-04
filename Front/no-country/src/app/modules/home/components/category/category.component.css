@@ -1,0 +1,16 @@
+li {
+  list-style: none;
+  height: 10rem;
+  width: 14rem;
+  padding: 0.25rem;
+  display: grid;
+  place-items: center;
+}
+
+h3 {
+  display: inline-block;
+  margin: 0;
+  font-size: 1.5rem;
+  color: white;
+  font-weight: 600;
+}
