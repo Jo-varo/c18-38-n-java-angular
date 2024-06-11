@@ -1,13 +1,21 @@
-.container {
-  background: linear-gradient(270.02deg, #7ebfbf 24.28%, #b2cce3 99.79%);
+.containers {
+  background: linear-gradient(270deg, #7ebfbf 24.28%, #b2cce3 99.79%);
   padding: 2.5rem 0;
 }
 
-.container > div {
+.containers > div {
   max-width: 800px;
   width: 100%;
   margin: 0 auto;
   display: flex;
-  justify-content: space-around;
-  align-items: center;
+  gap: 1rem;
+}
+
+mat-form-field {
+  flex: 4;
+}
+
+button {
+  flex: 1;
+  height: 3.5rem;
 }
