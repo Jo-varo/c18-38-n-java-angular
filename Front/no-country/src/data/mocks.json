@@ -1,0 +1,1386 @@
+[
+  {
+    "product-name": "Caja de Desayuno Sorpresa",
+    "description": "Una deliciosa caja de desayuno con una variedad de pasteles, jugo fresco y una nota personalizada.",
+    "stock": 50,
+    "price": 30,
+    "rating": 4.8,
+    "location": {
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "address": "Calle Florida 123"
+    },
+    "payment-method": "Tarjeta de Crédito",
+    "features": {
+      "content": "Pasteles, jugo, nota personalizada",
+      "size": "MEDIANO",
+      "tag": "DIA_DE_LAS_MADRES",
+      "category": "DESAYUNO",
+      "target": "FEMENINO"
+    },
+    "image-url": "https://example.com/image1.jpg",
+    "company": {
+      "company-name": "Momentos Sorpresa",
+      "description": "Especializados en regalos sorpresa para cada ocasión.",
+      "rating": 4.9,
+      "image-url": "https://example.com/company1.jpg",
+      "contact": {
+        "phone": "+54 11 1234 5678",
+        "instagram": "@momentossorpresa",
+        "facebook": "facebook.com/momentossorpresa",
+        "web-page": "www.momentossorpresa.com"
+      },
+      "comments": [
+        {
+          "comment-body": "¡Servicio increíble y el desayuno estaba delicioso!",
+          "user-name": "María López",
+          "rate": 5
+        },
+        {
+          "comment-body": "Me encantó la presentación y la calidad.",
+          "user-name": "Juan Pérez",
+          "rate": 4
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Ramo Romántico",
+    "description": "Un hermoso ramo de rosas rojas perfecto para aniversarios.",
+    "stock": 30,
+    "price": 50,
+    "rating": 4.7,
+    "location": {
+      "country": "Colombia",
+      "city": "Bogotá",
+      "address": "Carrera 7 #45-67"
+    },
+    "payment-method": "PayPal",
+    "features": {
+      "content": "Rosas rojas",
+      "size": "GRANDE",
+      "tag": "ANIVERSARIO",
+      "category": "RAMO",
+      "target": "PAREJAS"
+    },
+    "image-url": "https://example.com/image2.jpg",
+    "company": {
+      "company-name": "Amor en Flor",
+      "description": "Creando momentos inolvidables con nuestros hermosos arreglos florales.",
+      "rating": 4.8,
+      "image-url": "https://example.com/company2.jpg",
+      "contact": {
+        "phone": "+57 1 9876 5432",
+        "instagram": "@amorenflor",
+        "facebook": "facebook.com/amorenflor",
+        "web-page": "www.amorenflor.com"
+      },
+      "comments": [
+        {
+          "comment-body": "Las flores estaban frescas y hermosas, tal como se anunciaba.",
+          "user-name": "Carlos Ramírez",
+          "rate": 4
+        },
+        {
+          "comment-body": "Excelente servicio y entrega puntual.",
+          "user-name": "Laura Gómez",
+          "rate": 5
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Caja de Chocolates de Cumpleaños",
+    "description": "Una lujosa caja de chocolates surtidos para celebrar un cumpleaños especial.",
+    "stock": 100,
+    "price": 25,
+    "rating": 4.9,
+    "location": {
+      "country": "Argentina",
+      "city": "Rosario",
+      "address": "Avenida Pellegrini 456"
+    },
+    "payment-method": "Transferencia Bancaria",
+    "features": {
+      "content": "Chocolates surtidos",
+      "size": "PEQUEÑO",
+      "tag": "CUMPLEAÑOS",
+      "category": "CHOCOLATES",
+      "target": "INFANTIL"
+    },
+    "image-url": "https://example.com/image3.jpg",
+    "company": {
+      "company-name": "Dulces Sorpresas",
+      "description": "Regalos deliciosos y encantadores para cada ocasión.",
+      "rating": 4.7,
+      "image-url": "https://example.com/company3.jpg",
+      "contact": {
+        "phone": "+54 341 6789 123",
+        "instagram": "@dulcessorpresas",
+        "facebook": "facebook.com/dulcessorpresas",
+        "web-page": "www.dulcessorpresas.com"
+      },
+      "comments": [
+        {
+          "comment-body": "Los chocolates eran exquisitos, perfectos para el cumpleaños de mi hijo.",
+          "user-name": "Ana Martínez",
+          "rate": 5
+        },
+        {
+          "comment-body": "Muy buena calidad y presentación.",
+          "user-name": "Fernando Díaz",
+          "rate": 4
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Arreglo de Globos Festivos",
+    "description": "Un colorido arreglo de globos para cualquier ocasión festiva.",
+    "stock": 75,
+    "price": 20,
+    "rating": 4.5,
+    "location": {
+      "country": "Colombia",
+      "city": "Medellín",
+      "address": "Calle 10 #20-30"
+    },
+    "payment-method": "Efectivo",
+    "features": {
+      "content": "Globos de colores",
+      "size": "MEDIANO",
+      "tag": "NAVIDAD",
+      "category": "GLOBOS",
+      "target": "INFANTIL"
+    },
+    "image-url": "https://example.com/image4.jpg",
+    "company": {
+      "company-name": "Fiesta en Globo",
+      "description": "Decoraciones con globos para alegrar tus celebraciones.",
+      "rating": 4.6,
+      "image-url": "https://example.com/company4.jpg",
+      "contact": {
+        "phone": "+57 4 8765 4321",
+        "instagram": "@fiestaenglobo",
+        "facebook": "facebook.com/fiestaenglobo",
+        "web-page": "www.fiestaenglobo.com"
+      },
+      "comments": [
+        {
+          "comment-body": "Los globos fueron un gran éxito en la fiesta.",
+          "user-name": "Lucía Fernández",
+          "rate": 5
+        },
+        {
+          "comment-body": "Bonitos y duraderos, excelente calidad.",
+          "user-name": "Mario Suárez",
+          "rate": 4
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Peluches de Amor",
+    "description": "Un adorable oso de peluche con un corazón para expresar tu amor.",
+    "stock": 60,
+    "price": 35,
+    "rating": 4.8,
+    "location": {
+      "country": "Argentina",
+      "city": "Córdoba",
+      "address": "Boulevard Chacabuco 987"
+    },
+    "payment-method": "Tarjeta de Débito",
+    "features": {
+      "content": "Oso de peluche con corazón",
+      "size": "GRANDE",
+      "tag": "SAN_VALENTÍN",
+      "category": "PELUCHE",
+      "target": "PAREJAS"
+    },
+    "image-url": "https://example.com/image5.jpg",
+    "company": {
+      "company-name": "Amor Suave",
+      "description": "Peluches adorables para ocasiones especiales.",
+      "rating": 4.9,
+      "image-url": "https://example.com/company5.jpg",
+      "contact": {
+        "phone": "+54 351 5432 1098",
+        "instagram": "@amorsuave",
+        "facebook": "facebook.com/amorsuave",
+        "web-page": "www.amorsuave.com"
+      },
+      "comments": [
+        {
+          "comment-body": "El peluche es hermoso y de muy buena calidad.",
+          "user-name": "Laura Medina",
+          "rate": 5
+        },
+        {
+          "comment-body": "Perfecto regalo para San Valentín, mi pareja lo amó.",
+          "user-name": "Ricardo Ortega",
+          "rate": 4
+        },
+        {
+          "comment-body": "Excelente atención y rápido envío.",
+          "user-name": "Marcela Ruiz",
+          "rate": 5
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Arreglo de Flores y Peluche",
+    "description": "Un hermoso arreglo de flores acompañado de un adorable peluche.",
+    "stock": 50,
+    "price": 55,
+    "rating": 4.8,
+    "location": {
+      "country": "Colombia",
+      "city": "Barranquilla",
+      "address": "Calle 84 #46-56"
+    },
+    "payment-method": "Tarjeta de Débito",
+    "features": {
+      "content": "Flores y peluche",
+      "size": "GRANDE",
+      "tag": "DIA_DE_LAS_MADRES",
+      "category": "RAMO",
+      "target": "FEMENINO"
+    },
+    "image-url": "https://example.com/image8.jpg",
+    "company": {
+      "company-name": "Detalles con Amor",
+      "description": "Los mejores detalles para sorprender a tus seres queridos.",
+      "rating": 4.9,
+      "image-url": "https://example.com/company8.jpg",
+      "contact": {
+        "phone": "+57 5 7654 1234",
+        "instagram": "@detallesconamor",
+        "facebook": "facebook.com/detallesconamor",
+        "web-page": "www.detallesconamor.com"
+      },
+      "comments": [
+        {
+          "comment-body": "El arreglo de flores y el peluche fueron perfectos para el Día de las Madres.",
+          "user-name": "Andrea Torres",
+          "rate": 5
+        },
+        {
+          "comment-body": "Muy buen servicio y entrega rápida.",
+          "user-name": "Fernando López",
+          "rate": 4
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Kit de Chocolates Gourmet",
+    "description": "Una selección de chocolates gourmet ideal para cualquier ocasión especial.",
+    "stock": 90,
+    "price": 45,
+    "rating": 4.7,
+    "location": {
+      "country": "Argentina",
+      "city": "Mar del Plata",
+      "address": "Calle Güemes 234"
+    },
+    "payment-method": "Transferencia Bancaria",
+    "features": {
+      "content": "Chocolates gourmet",
+      "size": "MEDIANO",
+      "tag": "ANIVERSARIO",
+      "category": "CHOCOLATES",
+      "target": "PAREJAS"
+    },
+    "image-url": "https://example.com/image9.jpg",
+    "company": {
+      "company-name": "Delicias de Chocolate",
+      "description": "Chocolates finos y deliciosos para cada momento especial.",
+      "rating": 4.8,
+      "image-url": "https://example.com/company9.jpg",
+      "contact": {
+        "phone": "+54 223 5678 1234",
+        "instagram": "@deliciasdechocolate",
+        "facebook": "facebook.com/deliciasdechocolate",
+        "web-page": "www.deliciasdechocolate.com"
+      },
+      "comments": [
+        {
+          "comment-body": "Los chocolates son de excelente calidad, perfectos para un regalo.",
+          "user-name": "Carolina Pérez",
+          "rate": 5
+        },
+        {
+          "comment-body": "Gran variedad y sabores deliciosos.",
+          "user-name": "Gustavo Ramírez",
+          "rate": 4
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Desayuno Sorpresa Saludable",
+    "description": "Un desayuno saludable con frutas frescas, yogur y granola.",
+    "stock": 60,
+    "price": 35,
+    "rating": 4.9,
+    "location": {
+      "country": "Colombia",
+      "city": "Cartagena",
+      "address": "Avenida San Martín 678"
+    },
+    "payment-method": "Efectivo",
+    "features": {
+      "content": "Frutas frescas, yogur, granola",
+      "size": "MEDIANO",
+      "tag": "CUMPLEAÑOS",
+      "category": "DESAYUNO",
+      "target": "FEMENINO"
+    },
+    "image-url": "https://example.com/image10.jpg",
+    "company": {
+      "company-name": "Desayunos Felices",
+      "description": "Desayunos saludables y deliciosos para comenzar el día con una sonrisa.",
+      "rating": 4.8,
+      "image-url": "https://example.com/company10.jpg",
+      "contact": {
+        "phone": "+57 5 1234 5678",
+        "instagram": "@desayunosfelices",
+        "facebook": "facebook.com/desayunosfelices",
+        "web-page": "www.desayunosfelices.com"
+      },
+      "comments": [
+        {
+          "comment-body": "El desayuno saludable fue un excelente regalo de cumpleaños.",
+          "user-name": "Sofía Mendoza",
+          "rate": 5
+        },
+        {
+          "comment-body": "Productos frescos y de alta calidad, muy recomendable.",
+          "user-name": "Martín Torres",
+          "rate": 4
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Ramo de Tulipanes",
+    "description": "Un elegante ramo de tulipanes de colores variados, ideal para cualquier ocasión.",
+    "stock": 70,
+    "price": 45,
+    "rating": 4.6,
+    "location": {
+      "country": "Argentina",
+      "city": "Santa Fe",
+      "address": "Boulevard Gálvez 1234"
+    },
+    "payment-method": "Tarjeta de Crédito",
+    "features": {
+      "content": "Tulipanes de colores",
+      "size": "GRANDE",
+      "tag": "DIA_DE_LAS_MADRES",
+      "category": "RAMO",
+      "target": "FEMENINO"
+    },
+    "image-url": "https://example.com/image11.jpg",
+    "company": {
+      "company-name": "Florales Encantados",
+      "description": "Flores encantadoras para momentos especiales.",
+      "rating": 4.7,
+      "image-url": "https://example.com/company11.jpg",
+      "contact": {
+        "phone": "+54 342 9876 5432",
+        "instagram": "@floralesencantados",
+        "facebook": "facebook.com/floralesencantados",
+        "web-page": "www.floralesencantados.com"
+      },
+      "comments": [
+        {
+          "comment-body": "Los tulipanes eran preciosos y frescos, perfectos para el Día de las Madres.",
+          "user-name": "Ana Gómez",
+          "rate": 5
+        },
+        {
+          "comment-body": "Servicio excelente y entrega rápida.",
+          "user-name": "Luis Herrera",
+          "rate": 4
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Cesta de Frutas Tropicales",
+    "description": "Una deliciosa cesta de frutas tropicales frescas, perfecta para cualquier ocasión.",
+    "stock": 80,
+    "price": 50,
+    "rating": 4.8,
+    "location": {
+      "country": "Colombia",
+      "city": "Medellín",
+      "address": "Calle 50 #30-40"
+    },
+    "payment-method": "PayPal",
+    "features": {
+      "content": "Frutas tropicales frescas",
+      "size": "GRANDE",
+      "tag": "NAVIDAD",
+      "category": "REGALOS",
+      "target": "FEMENINO"
+    },
+    "image-url": "https://example.com/image12.jpg",
+    "company": {
+      "company-name": "Frutas y Delicias",
+      "description": "Cestas de frutas y delicias frescas para cada momento especial.",
+      "rating": 4.8,
+      "image-url": "https://example.com/company12.jpg",
+      "contact": {
+        "phone": "+57 4 6543 2109",
+        "instagram": "@frutasydelicias",
+        "facebook": "facebook.com/frutasydelicias",
+        "web-page": "www.frutasydelicias.com"
+      },
+      "comments": [
+        {
+          "comment-body": "Las frutas estaban frescas y deliciosas, un regalo perfecto.",
+          "user-name": "Mariana Rojas",
+          "rate": 5
+        },
+        {
+          "comment-body": "Gran variedad de frutas y excelente presentación.",
+          "user-name": "Carlos Montoya",
+          "rate": 4
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Desayuno Sorpresa",
+    "description": "Delicioso desayuno que incluye jugo natural, café, medialunas y muffins.",
+    "stock": 15,
+    "price": 25.99,
+    "rating": 4.5,
+    "location": {
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "address": "Av. Corrientes 123"
+    },
+    "payment-method": "Tarjeta de crédito, transferencia bancaria",
+    "features": {
+      "content": "Jugo natural, café, medialunas, muffins",
+      "size": "MEDIUM",
+      "tag": "BREAKFAST",
+      "category": "BREAKFAST",
+      "target": "UNCATEGORIZED"
+    },
+    "image-url": "https://example.com/desayuno.jpg",
+    "company": {
+      "company-name": "RegalosExpress",
+      "description": "Empresa dedicada a la entrega de regalos a domicilio.",
+      "rating": 4.8,
+      "image-url": "https://example.com/regalosexpress.jpg",
+      "contact": {
+        "phone": "+54 9 11 1234 5678",
+        "instagram": "@regalosexpress",
+        "facebook": "RegalosExpressArg",
+        "web-page": "https://www.regalosexpress.com.ar"
+      },
+      "comments": [
+        {
+          "comment-body": "Excelente servicio, llegaron a tiempo y el desayuno estaba delicioso.",
+          "user-name": "María123",
+          "rate": 5
+        },
+        {
+          "comment-body": "Muy buen precio y la calidad de los productos es excelente.",
+          "user-name": "JuanPerez",
+          "rate": 4.5
+        }
+      ]
+    }
+  },
+  
+  {
+    "product-name": "Ramito de Rosas",
+    "description": "Hermoso ramo de rosas rojas y blancas, ideal para expresar amor y afecto.",
+    "stock": 20,
+    "price": 39.99,
+    "rating": 4.7,
+    "location": {
+      "country": "Colombia",
+      "city": "Medellín",
+      "address": "Calle 10 #45-67"
+    },
+    "payment-method": "Tarjeta de crédito, efectivo",
+    "features": {
+      "content": "Ramos de rosas rojas y blancas",
+      "size": "MEDIUM",
+      "tag": "ANNIVERSARY",
+      "category": "BOUQUET",
+      "target": "FEMALE"
+    },
+    "image-url": "https://example.com/ramo-rosas.jpg",
+    "company": {
+      "company-name": "Flores Para Ti",
+      "description": "Empresa especializada en la entrega de arreglos florales a domicilio.",
+      "rating": 4.9,
+      "image-url": "https://example.com/flores-para-ti.jpg",
+      "contact": {
+        "phone": "+57 310 123 4567",
+        "instagram": "@floresparati",
+        "facebook": "FloresParaTiCol",
+        "web-page": "https://www.floresparati.com.co"
+      },
+      "comments": [
+        {
+          "comment-body": "Me encantó el ramo, las flores estaban frescas y el servicio fue excelente.",
+          "user-name": "AnaFlores",
+          "rate": 5
+        },
+        {
+          "comment-body": "El ramo llegó a tiempo y en perfectas condiciones, muy recomendado.",
+          "user-name": "JuanPérez",
+          "rate": 4.8
+        }
+      ]
+    }
+  },
+  
+  {
+    "product-name": "Caja de Chocolates Deluxe",
+    "description": "Deliciosa selección de chocolates belgas de alta calidad en una elegante caja.",
+    "stock": 30,
+    "price": 29.99,
+    "rating": 4.6,
+    "location": {
+      "country": "Argentina",
+      "city": "Córdoba",
+      "address": "Av. Vélez Sársfield 890"
+    },
+    "payment-method": "Tarjeta de crédito, PayPal",
+    "features": {
+      "content": "Chocolates belgas variados",
+      "size": "LARGE",
+      "tag": "CHRISTMAS",
+      "category": "CHOCOLATES",
+      "target": "UNCATEGORIZED"
+    },
+    "image-url": "https://example.com/caja-chocolates.jpg",
+    "company": {
+      "company-name": "ChocoDeluxe",
+      "description": "Especialistas en chocolates gourmet y regalos exclusivos.",
+      "rating": 4.7,
+      "image-url": "https://example.com/chocodeluxe.jpg",
+      "contact": {
+        "phone": "+54 9 351 234 5678",
+        "instagram": "@chocodeluxe_arg",
+        "facebook": "ChocoDeluxeArgentina",
+        "web-page": "https://www.chocodeluxe.com.ar"
+      },
+      "comments": [
+        {
+          "comment-body": "La caja de chocolates es increíble, cada uno tiene un sabor único y delicioso.",
+          "user-name": "ChocoLover",
+          "rate": 5
+        },
+        {
+          "comment-body": "Excelente presentación y calidad de los chocolates, ¡volveré a comprar!",
+          "user-name": "MariaG",
+          "rate": 4.9
+        }
+      ]
+    }
+  },
+  
+  {
+    "product-name": "Globo Metálico Personalizado",
+    "description": "Globo metálico gigante con mensaje personalizado impreso, perfecto para sorprender en ocasiones especiales.",
+    "stock": 25,
+    "price": 15.99,
+    "rating": 4.4,
+    "location": {
+      "country": "Colombia",
+      "city": "Bogotá",
+      "address": "Carrera 15 #123-45"
+    },
+    "payment-method": "Tarjeta de crédito, efectivo",
+    "features": {
+      "content": "Globo metálico gigante con mensaje personalizado",
+      "size": "LARGE",
+      "tag": "BIRTHDAY",
+      "category": "BALOONS",
+      "target": "UNCATEGORIZED"
+    },
+    "image-url": "https://example.com/globo-metalico.jpg",
+    "company": {
+      "company-name": "Globos Creativos",
+      "description": "Especialistas en globos personalizados para ocasiones especiales.",
+      "rating": 4.6,
+      "image-url": "https://example.com/globos-creativos.jpg",
+      "contact": {
+        "phone": "+57 1 234 5678",
+        "instagram": "@globoscreativos",
+        "facebook": "GlobosCreativosCol",
+        "web-page": "https://www.globoscreativos.com.co"
+      },
+      "comments": [
+        {
+          "comment-body": "El globo personalizado quedó genial, fue el centro de atención de la fiesta.",
+          "user-name": "FelipeD",
+          "rate": 4.5
+        },
+        {
+          "comment-body": "Servicio rápido y el globo llegó en perfectas condiciones, ¡gracias!",
+          "user-name": "LauraG",
+          "rate": 4.7
+        }
+      ]
+    }
+  },
+  
+  {
+    "product-name": "Desayuno Especial",
+    "description": "Desayuno completo con variedad de opciones: café, jugo, croissants, frutas y más.",
+    "stock": 20,
+    "price": 34.99,
+    "rating": 4.8,
+    "location": {
+      "country": "Argentina",
+      "city": "Rosario",
+      "address": "Av. Pellegrini 789"
+    },
+    "payment-method": "Tarjeta de crédito, efectivo",
+    "features": {
+      "content": "Café, jugo, croissants, frutas",
+      "size": "MEDIUM",
+      "tag": "MOTHERS_DAY",
+      "category": "BREAKFAST",
+      "target": "FEMALE"
+    },
+    "image-url": "https://example.com/desayuno-especial.jpg",
+    "company": {
+      "company-name": "Desayunos Deli",
+      "description": "Especialistas en desayunos sorpresa de alta calidad y variedad.",
+      "rating": 4.9,
+      "image-url": "https://example.com/desayunos-deli.jpg",
+      "contact": {
+        "phone": "+54 9 341 123 4567",
+        "instagram": "@desayunosdeli",
+        "facebook": "DesayunosDeliArg",
+        "web-page": "https://www.desayunosdeli.com.ar"
+      },
+      "comments": [
+        {
+          "comment-body": "El desayuno fue excelente, muy completo y delicioso.",
+          "user-name": "CarolinaG",
+          "rate": 5
+        },
+        {
+          "comment-body": "Entrega puntual y la presentación del desayuno fue impresionante.",
+          "user-name": "PedroL",
+          "rate": 4.8
+        }
+      ]
+    }
+  },
+  
+  {
+    "product-name": "Caja de Regalo Premium",
+    "description": "Caja de regalo elegante con una selección de productos gourmet y accesorios de lujo.",
+    "stock": 15,
+    "price": 79.99,
+    "rating": 4.9,
+    "location": {
+      "country": "Colombia",
+      "city": "Cartagena",
+      "address": "Calle del Arsenal #10-20"
+    },
+    "payment-method": "Tarjeta de crédito, PayPal",
+    "features": {
+      "content": "Productos gourmet y accesorios de lujo",
+      "size": "LARGE",
+      "tag": "ANNIVERSARY",
+      "category": "GIFTS",
+      "target": "UNCATEGORIZED"
+    },
+    "image-url": "https://example.com/caja-regalo-premium.jpg",
+    "company": {
+      "company-name": "Regalos de Lujo",
+      "description": "Tienda exclusiva de regalos premium para ocasiones especiales.",
+      "rating": 5.0,
+      "image-url": "https://example.com/regalos-lujo.jpg",
+      "contact": {
+        "phone": "+57 5 123 4567",
+        "instagram": "@regalosdelujo",
+        "facebook": "RegalosDeLujoCol",
+        "web-page": "https://www.regalosdelujo.com.co"
+      },
+      "comments": [
+        {
+          "comment-body": "La caja de regalo es impresionante, todos los productos son de alta calidad y la presentación es hermosa.",
+          "user-name": "MarcelaS",
+          "rate": 5
+        },
+        {
+          "comment-body": "Excelente servicio al cliente y entrega rápida, definitivamente volveré a comprar.",
+          "user-name": "CarlosP",
+          "rate": 4.9
+        }
+      ]
+    }
+  },
+  
+  {
+    "product-name": "Peluche Oso Panda",
+    "description": "Peluche suave y adorable de oso panda, perfecto para regalar a niños y amantes de los animales.",
+    "stock": 40,
+    "price": 19.99,
+    "rating": 4.7,
+    "location": {
+      "country": "Argentina",
+      "city": "Mendoza",
+      "address": "Av. San Martín 555"
+    },
+    "payment-method": "Tarjeta de crédito, MercadoPago",
+    "features": {
+      "content": "Peluche suave de oso panda",
+      "size": "SMALL",
+      "tag": "BIRTHDAY",
+      "category": "PLUSH",
+      "target": "KID"
+    },
+    "image-url": "https://example.com/peluche-oso-panda.jpg",
+    "company": {
+      "company-name": "Peluchitos Tiernos",
+      "description": "Tienda especializada en peluches adorables para todas las edades.",
+      "rating": 4.8,
+      "image-url": "https://example.com/peluchitos-tiernos.jpg",
+      "contact": {
+        "phone": "+54 9 261 234 5678",
+        "instagram": "@peluchitostiernos",
+        "facebook": "PeluchitosTiernosArg",
+        "web-page": "https://www.peluchitostiernos.com.ar"
+      },
+      "comments": [
+        {
+          "comment-body": "El peluche es muy lindo y suave, mi hijo lo ama.",
+          "user-name": "AnaL",
+          "rate": 4.5
+        },
+        {
+          "comment-body": "Entrega rápida y el peluche es de buena calidad, excelente servicio.",
+          "user-name": "RobertoG",
+          "rate": 4.8
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Caja de Dulces Navideños",
+    "description": "Una caja surtida de dulces navideños para compartir en familia.",
+    "stock": 100,
+    "price": 40,
+    "rating": 4.9,
+    "location": {
+      "country": "Argentina",
+      "city": "La Plata",
+      "address": "Avenida 7 #1234"
+    },
+    "payment-method": "Efectivo",
+    "features": {
+      "content": "Dulces navideños",
+      "size": "GRANDE",
+      "tag": "NAVIDAD",
+      "category": "REGALOS",
+      "target": "FAMILIAS"
+    },
+    "image-url": "https://example.com/image13.jpg",
+    "company": {
+      "company-name": "Delicias Navideñas",
+      "description": "Dulces tradicionales para celebrar la Navidad en familia.",
+      "rating": 4.8,
+      "image-url": "https://example.com/company13.jpg",
+      "contact": {
+        "phone": "+54 221 4321 9876",
+        "instagram": "@deliciasnavidenas",
+        "facebook": "facebook.com/deliciasnavidenas",
+        "web-page": "www.deliciasnavidenas.com"
+      },
+      "comments": [
+        {
+          "comment-body": "Los dulces fueron un éxito en nuestra celebración navideña.",
+          "user-name": "Laura Fernández",
+          "rate": 5
+        },
+        {
+          "comment-body": "Gran variedad y muy buen sabor.",
+          "user-name": "Diego López",
+          "rate": 4
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Set de Peluches y Dulces",
+    "description": "Un adorable set de peluches acompañado de una variedad de dulces.",
+    "stock": 70,
+    "price": 35,
+    "rating": 4.7,
+    "location": {
+      "country": "Colombia",
+      "city": "Bogotá",
+      "address": "Carrera 15 #65-78"
+    },
+    "payment-method": "Tarjeta de Débito",
+    "features": {
+      "content": "Peluches y dulces",
+      "size": "MEDIANO",
+      "tag": "CUMPLEAÑOS",
+      "category": "PELUCHE",
+      "target": "NIÑOS"
+    },
+    "image-url": "https://example.com/image14.jpg",
+    "company": {
+      "company-name": "Regalos Tiernos",
+      "description": "Los mejores regalos tiernos para los más pequeños.",
+      "rating": 4.8,
+      "image-url": "https://example.com/company14.jpg",
+      "contact": {
+        "phone": "+57 1 7654 3210",
+        "instagram": "@regalostiernos",
+        "facebook": "facebook.com/regalostiernos",
+        "web-page": "www.regalostiernos.com"
+      },
+      "comments": [
+        {
+          "comment-body": "A mi hijo le encantaron los peluches y los dulces.",
+          "user-name": "Camila Vargas",
+          "rate": 5
+        },
+        {
+          "comment-body": "Un regalo muy bonito y de buena calidad.",
+          "user-name": "Jorge Ramírez",
+          "rate": 4
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Desayuno Especial de Cumpleaños",
+    "description": "Un desayuno especial con una selección de productos para celebrar un cumpleaños.",
+    "stock": 50,
+    "price": 40,
+    "rating": 4.8,
+    "location": {
+      "country": "Argentina",
+      "city": "Rosario",
+      "address": "Calle Córdoba 123"
+    },
+    "payment-method": "Transferencia Bancaria",
+    "features": {
+      "content": "Selección de productos de desayuno",
+      "size": "GRANDE",
+      "tag": "CUMPLEAÑOS",
+      "category": "DESAYUNO",
+      "target": "PAREJAS"
+    },
+    "image-url": "https://example.com/image15.jpg",
+    "company": {
+      "company-name": "Desayunos Sorpresa",
+      "description": "Desayunos personalizados para hacer de cada celebración un momento especial.",
+      "rating": 4.9,
+      "image-url": "https://example.com/company15.jpg",
+      "contact": {
+        "phone": "+54 341 5678 1234",
+        "instagram": "@desayunossorpresa",
+        "facebook": "facebook.com/desayunossorpresa",
+        "web-page": "www.desayunossorpresa.com"
+      },
+      "comments": [
+        {
+          "comment-body": "El desayuno de cumpleaños fue una sorpresa perfecta.",
+          "user-name": "Valentina López",
+          "rate": 5
+        },
+        {
+          "comment-body": "Productos frescos y muy bien presentados.",
+          "user-name": "Ricardo Gómez",
+          "rate": 4
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Caja de Regalos Gourmet",
+    "description": "Una caja con una selección de productos gourmet para los amantes de la buena comida.",
+    "stock": 60,
+    "price": 75,
+    "rating": 4.8,
+    "location": {
+      "country": "Colombia",
+      "city": "Cali",
+      "address": "Avenida Roosevelt 789"
+    },
+    "payment-method": "PayPal",
+    "features": {
+      "content": "Productos gourmet",
+      "size": "GRANDE",
+      "tag": "ANIVERSARIO",
+      "category": "REGALOS",
+      "target": "PAREJAS"
+    },
+    "image-url": "https://example.com/image16.jpg",
+    "company": {
+      "company-name": "Sabores Exquisitos",
+      "description": "Selección de productos gourmet para deleitar el paladar.",
+      "rating": 4.9,
+      "image-url": "https://example.com/company16.jpg",
+      "contact": {
+        "phone": "+57 2 6543 9876",
+        "instagram": "@saboresexquisitos",
+        "facebook": "facebook.com/saboresexquisitos",
+        "web-page": "www.saboresexquisitos.com"
+      },
+      "comments": [
+        {
+          "comment-body": "Los productos gourmet eran de excelente calidad, perfectos para un aniversario.",
+          "user-name": "Marta Pérez",
+          "rate": 5
+        },
+        {
+          "comment-body": "Gran variedad y sabores deliciosos.",
+          "user-name": "Juan Torres",
+          "rate": 4
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Bouquet de Rosas Rojas",
+    "description": "Un elegante bouquet de rosas rojas frescas, ideal para expresar amor y cariño.",
+    "stock": 50,
+    "price": 60,
+    "rating": 4.7,
+    "location": {
+      "country": "Argentina",
+      "city": "Córdoba",
+      "address": "Calle San Jerónimo 345"
+    },
+    "payment-method": "Tarjeta de Crédito",
+    "features": {
+      "content": "Rosas rojas frescas",
+      "size": "GRANDE",
+      "tag": "ANIVERSARIO",
+      "category": "RAMO",
+      "target": "PAREJAS"
+    },
+    "image-url": "https://example.com/image17.jpg",
+    "company": {
+      "company-name": "Amor en Flores",
+      "description": "Los más hermosos ramos de flores para cada ocasión especial.",
+      "rating": 4.8,
+      "image-url": "https://example.com/company17.jpg",
+      "contact": {
+        "phone": "+54 351 8765 4321",
+        "instagram": "@amorenflores",
+        "facebook": "facebook.com/amorenflores",
+        "web-page": "www.amorenflores.com"
+      },
+      "comments": [
+        {
+          "comment-body": "Las rosas eran preciosas y muy frescas.",
+          "user-name": "Sofía Morales",
+          "rate": 5
+        },
+        {
+          "comment-body": "El bouquet fue perfecto para nuestro aniversario.",
+          "user-name": "Nicolás Ramírez",
+          "rate": 4
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Desayuno Sorpresa Premium",
+    "description": "Un desayuno premium con una selección de productos de alta calidad.",
+    "stock": 70,
+    "price": 50,
+    "rating": 4.9,
+    "location": {
+      "country": "Colombia",
+      "city": "Medellín",
+      "address": "Carrera 70 #45-78"
+    },
+    "payment-method": "Tarjeta de Débito",
+    "features": {
+      "content": "Productos de desayuno premium",
+      "size": "GRANDE",
+      "tag": "CUMPLEAÑOS",
+      "category": "DESAYUNO",
+      "target": "PAREJAS"
+    },
+    "image-url": "https://example.com/image18.jpg",
+    "company": {
+      "company-name": "Desayunos Premium",
+      "description": "Desayunos de alta calidad para comenzar el día de manera especial.",
+      "rating": 4.9,
+      "image-url": "https://example.com/company18.jpg",
+      "contact": {
+        "phone": "+57 4 8765 4321",
+        "instagram": "@desayunospremium",
+        "facebook": "facebook.com/desayunospremium",
+        "web-page": "www.desayunospremium.com"
+      },
+      "comments": [
+        {
+          "comment-body": "El desayuno premium fue un regalo perfecto de cumpleaños.",
+          "user-name": "Daniela Rojas",
+          "rate": 5
+        },
+        {
+          "comment-body": "Productos de muy buena calidad y presentación.",
+          "user-name": "Andrés Villa",
+          "rate": 4
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Set de Globos y Chocolates",
+    "description": "Un divertido set de globos acompañado de una caja de chocolates.",
+    "stock": 80,
+    "price": 30,
+    "rating": 4.6,
+    "location": {
+      "country": "Argentina",
+      "city": "San Juan",
+      "address": "Avenida Libertador 567"
+    },
+    "payment-method": "PayPal",
+    "features": {
+      "content": "Globos y chocolates",
+      "size": "MEDIANO",
+      "tag": "CUMPLEAÑOS",
+      "category": "GLOBOS",
+      "target": "NIÑOS"
+    },
+    "image-url": "https://example.com/image19.jpg",
+    "company": {
+      "company-name": "Diversión y Dulzura",
+      "description": "Regalos divertidos y dulces para hacer sonreír a los más pequeños.",
+      "rating": 4.7,
+      "image-url": "https://example.com/company19.jpg",
+      "contact": {
+        "phone": "+54 264 7654 3210",
+        "instagram": "@diversionydulzura",
+        "facebook": "facebook.com/diversionydulzura",
+        "web-page": "www.diversionydulzura.com"
+      },
+      "comments": [
+        {
+          "comment-body": "Los globos y los chocolates fueron un éxito en la fiesta de cumpleaños.",
+          "user-name": "María González",
+          "rate": 5
+        },
+        {
+          "comment-body": "Muy buena calidad y entrega rápida.",
+          "user-name": "Pedro Martínez",
+          "rate": 4
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Botella de Vino y Chocolates",
+    "description": "Un elegante regalo que incluye una botella de vino tinto y una caja de chocolates finos.",
+    "stock": 40,
+    "price": 70,
+    "rating": 4.9,
+    "location": {
+      "country": "Colombia",
+      "city": "Bogotá",
+      "address": "Calle 85 #15-20"
+    },
+    "payment-method": "Efectivo",
+    "features": {
+      "content": "Vino tinto y chocolates finos",
+      "size": "GRANDE",
+      "tag": "ANIVERSARIO",
+      "category": "ALCOHOL",
+      "target": "PAREJAS"
+    },
+    "image-url": "https://example.com/image20.jpg",
+    "company": {
+      "company-name": "Regalos Gourmet",
+      "description": "Regalos gourmet de alta calidad para ocasiones especiales.",
+      "rating": 4.9,
+      "image-url": "https://example.com/company20.jpg",
+      "contact": {
+        "phone": "+57 1 9876 5432",
+        "instagram": "@regalosgourmet",
+        "facebook": "facebook.com/regalosgourmet",
+        "web-page": "www.regalosgourmet.com"
+      },
+      "comments": [
+        {
+          "comment-body": "El vino y los chocolates eran de excelente calidad, un regalo perfecto para nuestro aniversario.",
+          "user-name": "Juliana López",
+          "rate": 5
+        },
+        {
+          "comment-body": "Muy buena presentación y excelente sabor.",
+          "user-name": "Carlos Herrera",
+          "rate": 4
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Caja de Regalo de Cumpleaños",
+    "description": "Una caja sorpresa con una selección de regalos de cumpleaños.",
+    "stock": 90,
+    "price": 35,
+    "rating": 4.7,
+    "location": {
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "address": "Avenida de Mayo 1234"
+    },
+    "payment-method": "Tarjeta de Crédito",
+    "features": {
+      "content": "Selección de regalos de cumpleaños",
+      "size": "MEDIANO",
+      "tag": "CUMPLEAÑOS",
+      "category": "REGALOS",
+      "target": "NIÑOS"
+    },
+    "image-url": "https://example.com/image21.jpg",
+    "company": {
+      "company-name": "Sorpresas y Alegrías",
+      "description": "Las mejores sorpresas para celebrar cada cumpleaños.",
+      "rating": 4.8,
+      "image-url": "https://example.com/company21.jpg",
+      "contact": {
+        "phone": "+54 11 4321 5678",
+        "instagram": "@sorpresasyalegrias",
+        "facebook": "facebook.com/sorpresasyalegrias",
+        "web-page": "www.sorpresasyalegrias.com"
+      },
+      "comments": [
+        {
+          "comment-body": "La caja de regalo fue una sorpresa maravillosa para mi hijo.",
+          "user-name": "Ana Martínez",
+          "rate": 5
+        },
+        {
+          "comment-body": "Gran variedad de regalos y excelente presentación.",
+          "user-name": "Marcos Pérez",
+          "rate": 4
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Desayuno Romántico",
+    "description": "Un desayuno romántico con una selección de productos para compartir en pareja.",
+    "stock": 50,
+    "price": 60,
+    "rating": 4.9,
+    "location": {
+      "country": "Colombia",
+      "city": "Cartagena",
+      "address": "Calle del Arsenal 789"
+    },
+    "payment-method": "Transferencia Bancaria",
+    "features": {
+      "content": "Productos de desayuno para compartir",
+      "size": "GRANDE",
+      "tag": "ANIVERSARIO",
+      "category": "DESAYUNO",
+      "target": "PAREJAS"
+    },
+    "image-url": "https://example.com/image22.jpg",
+    "company": {
+      "company-name": "Amor en Desayuno",
+      "description": "Desayunos románticos para celebrar el amor.",
+      "rating": 4.9,
+      "image-url": "https://example.com/company22.jpg",
+      "contact": {
+        "phone": "+57 5 1234 8765",
+        "instagram": "@amorendesayuno",
+        "facebook": "facebook.com/amorendesayuno",
+        "web-page": "www.amorendesayuno.com"
+      },
+      "comments": [
+        {
+          "comment-body": "El desayuno romántico fue una sorpresa increíble para nuestro aniversario.",
+          "user-name": "Daniela Castro",
+          "rate": 5
+        },
+        {
+          "comment-body": "Productos deliciosos y muy bien presentados.",
+          "user-name": "Juan Vargas",
+          "rate": 4
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Ramo de Flores Variadas",
+    "description": "Un colorido ramo de flores variadas, perfecto para cualquier ocasión.",
+    "stock": 80,
+    "price": 45,
+    "rating": 4.8,
+    "location": {
+      "country": "Argentina",
+      "city": "Tucumán",
+      "address": "Calle San Martín 1234"
+    },
+    "payment-method": "Tarjeta de Débito",
+    "features": {
+      "content": "Flores variadas frescas",
+      "size": "MEDIANO",
+      "tag": "CUMPLEAÑOS",
+      "category": "RAMO",
+      "target": "FEMENINO"
+    },
+    "image-url": "https://example.com/image23.jpg",
+    "company": {
+      "company-name": "Flores y Encantos",
+      "description": "Hermosos ramos de flores para alegrar cualquier ocasión.",
+      "rating": 4.8,
+      "image-url": "https://example.com/company23.jpg",
+      "contact": {
+        "phone": "+54 381 4321 1234",
+        "instagram": "@floresyencantos",
+        "facebook": "facebook.com/floresyencantos",
+        "web-page": "www.floresyencantos.com"
+      },
+      "comments": [
+        {
+          "comment-body": "Las flores eran preciosas y muy frescas.",
+          "user-name": "Marta Jiménez",
+          "rate": 5
+        },
+        {
+          "comment-body": "El ramo de flores fue perfecto para el cumpleaños de mi madre.",
+          "user-name": "Diego López",
+          "rate": 4
+        }
+      ]
+    }
+  },
+
+  {
+    "product-name": "Caja de Chocolates Finos",
+    "description": "Una caja elegante con una selección de chocolates finos para los amantes del chocolate.",
+    "stock": 90,
+    "price": 50,
+    "rating": 4.9,
+    "location": {
+      "country": "Colombia",
+      "city": "Barranquilla",
+      "address": "Calle 84 #45-67"
+    },
+    "payment-method": "PayPal",
+    "features": {
+      "content": "Chocolates finos",
+      "size": "GRANDE",
+      "tag": "NAVIDAD",
+      "category": "CHOCOLATES",
+      "target": "FEMENINO"
+    },
+    "image-url": "https://example.com/image24.jpg",
+    "company": {
+      "company-name": "Chocolates Delicias",
+      "description": "La mejor selección de chocolates finos para cada ocasión.",
+      "rating": 4.9,
+      "image-url": "https://example.com/company24.jpg",
+      "contact": {
+        "phone": "+57 5 8765 4321",
+        "instagram": "@chocolatesdelicias",
+        "facebook": "facebook.com/chocolatesdelicias",
+        "web-page": "www.chocolatesdelicias.com"
+      },
+      "comments": [
+        {
+          "comment-body": "Los chocolates eran exquisitos y de muy buena calidad.",
+          "user-name": "Laura Pérez",
+          "rate": 5
+        },
+        {
+          "comment-body": "La caja de chocolates fue un regalo perfecto para Navidad.",
+          "user-name": "José Ramírez",
+          "rate": 4
+        }
+      ]
+    }
+  },
+  
+  {
+    "product-name": "Desayuno Sorpresa de Navidad",
+    "description": "Un desayuno sorpresa con temática navideña, perfecto para comenzar las festividades.",
+    "stock": 60,
+    "price": 55,
+    "rating": 4.8,
+    "location": {
+      "country": "Argentina",
+      "city": "Mendoza",
+      "address": "Avenida San Martín 567"
+    },
+    "payment-method": "Efectivo",
+    "features": {
+      "content": "Productos de desayuno con temática navideña",
+      "size": "GRANDE",
+      "tag": "NAVIDAD",
+      "category": "DESAYUNO",
+      "target": "FAMILIAS"
+    },
+    "image-url": "https://example.com/image25.jpg",
+    "company": {
+      "company-name": "Navidad en Desayuno",
+      "description": "Desayunos temáticos para celebrar la Navidad en familia.",
+      "rating": 4.8,
+      "image-url": "https://example.com/company25.jpg",
+      "contact": {
+        "phone": "+54 261 7654 1234",
+        "instagram": "@navidadendesayuno",
+        "facebook": "facebook.com/navidadendesayuno",
+        "web-page": "www.navidadendesayuno.com"
+      },
+      "comments": [
+        {
+          "comment-body": "El desayuno navideño fue una gran manera de comenzar el día de Navidad.",
+          "user-name": "Clara Martínez",
+          "rate": 5
+        },
+        {
+          "comment-body": "Productos deliciosos y una presentación hermosa.",
+          "user-name": "Carlos López",
+          "rate": 4
+        }
+      ]
+    }
+  }
+]
