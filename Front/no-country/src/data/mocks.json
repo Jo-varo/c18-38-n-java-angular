@@ -537,7 +537,7 @@
     "features": {
       "content": "Ramos de rosas rojas y blancas",
       "size": "MEDIUM",
-      "tag": "ANNIVERSARY",
+      "tag": "ANIVERSARIO",
       "category": "BOUQUET",
       "target": "FEMALE"
     },
@@ -584,7 +584,7 @@
     "features": {
       "content": "Chocolates belgas variados",
       "size": "LARGE",
-      "tag": "CHRISTMAS",
+      "tag": "NAVIDAD",
       "category": "CHOCOLATES",
       "target": "UNCATEGORIZED"
     },
@@ -631,7 +631,7 @@
     "features": {
       "content": "Globo metálico gigante con mensaje personalizado",
       "size": "LARGE",
-      "tag": "BIRTHDAY",
+      "tag": "CUMPLEAÑOS",
       "category": "BALOONS",
       "target": "UNCATEGORIZED"
     },
@@ -678,7 +678,7 @@
     "features": {
       "content": "Café, jugo, croissants, frutas",
       "size": "MEDIUM",
-      "tag": "MOTHERS_DAY",
+      "tag": "DIA_DE_LAS_MADRES",
       "category": "BREAKFAST",
       "target": "FEMALE"
     },
@@ -725,7 +725,7 @@
     "features": {
       "content": "Productos gourmet y accesorios de lujo",
       "size": "LARGE",
-      "tag": "ANNIVERSARY",
+      "tag": "ANIVERSARIO",
       "category": "GIFTS",
       "target": "UNCATEGORIZED"
     },
@@ -772,7 +772,7 @@
     "features": {
       "content": "Peluche suave de oso panda",
       "size": "SMALL",
-      "tag": "BIRTHDAY",
+      "tag": "CUMPLEAÑOS",
       "category": "PLUSH",
       "target": "KID"
     },
