@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "product-name": "Caja de Desayuno Sorpresa",
     "description": "Una deliciosa caja de desayuno con una variedad de pasteles, jugo fresco y una nota personalizada.",
     "stock": 50,
@@ -18,12 +19,12 @@
       "category": "DESAYUNO",
       "target": "FEMENINO"
     },
-    "image-url": "https://example.com/image1.jpg",
+    "image-url": "https://cdn.openart.ai/uploads/image_W3qg3tdU_1718239488965_512.webp",
     "company": {
       "company-name": "Momentos Sorpresa",
       "description": "Especializados en regalos sorpresa para cada ocasión.",
       "rating": 4.9,
-      "image-url": "https://example.com/company1.jpg",
+      "image-url": "https://cdn.openart.ai/uploads/image_LZOwOhE__1718239727339_512.webp",
       "contact": {
         "phone": "+54 11 1234 5678",
         "instagram": "@momentossorpresa",
@@ -46,6 +47,7 @@
   },
 
   {
+    "id": 2,
     "product-name": "Ramo Romántico",
     "description": "Un hermoso ramo de rosas rojas perfecto para aniversarios.",
     "stock": 30,
@@ -64,7 +66,7 @@
       "category": "RAMO",
       "target": "PAREJAS"
     },
-    "image-url": "https://example.com/image2.jpg",
+    "image-url": "https://cdn.openart.ai/uploads/image_oxw2zYPh_1718239817849_512.webp",
     "company": {
       "company-name": "Amor en Flor",
       "description": "Creando momentos inolvidables con nuestros hermosos arreglos florales.",
@@ -92,6 +94,7 @@
   },
 
   {
+    "id": 3,
     "product-name": "Caja de Chocolates de Cumpleaños",
     "description": "Una lujosa caja de chocolates surtidos para celebrar un cumpleaños especial.",
     "stock": 100,
@@ -110,7 +113,7 @@
       "category": "CHOCOLATES",
       "target": "INFANTIL"
     },
-    "image-url": "https://example.com/image3.jpg",
+    "image-url": "https://cdn.openart.ai/uploads/image_Jpkdqc-G_1718239976224_512.webp",
     "company": {
       "company-name": "Dulces Sorpresas",
       "description": "Regalos deliciosos y encantadores para cada ocasión.",
@@ -138,6 +141,7 @@
   },
 
   {
+    "id": 4,
     "product-name": "Arreglo de Globos Festivos",
     "description": "Un colorido arreglo de globos para cualquier ocasión festiva.",
     "stock": 75,
@@ -156,7 +160,7 @@
       "category": "GLOBOS",
       "target": "INFANTIL"
     },
-    "image-url": "https://example.com/image4.jpg",
+    "image-url": "https://cdn.openart.ai/uploads/image_bb2d4Wmd_1718240054610_512.webp",
     "company": {
       "company-name": "Fiesta en Globo",
       "description": "Decoraciones con globos para alegrar tus celebraciones.",
@@ -184,6 +188,7 @@
   },
 
   {
+    "id": 5,
     "product-name": "Peluches de Amor",
     "description": "Un adorable oso de peluche con un corazón para expresar tu amor.",
     "stock": 60,
@@ -202,7 +207,7 @@
       "category": "PELUCHE",
       "target": "PAREJAS"
     },
-    "image-url": "https://example.com/image5.jpg",
+    "image-url": "https://cdn.openart.ai/uploads/image_4VkaOJRn_1718240217331_512.webp",
     "company": {
       "company-name": "Amor Suave",
       "description": "Peluches adorables para ocasiones especiales.",
@@ -235,6 +240,7 @@
   },
 
   {
+    "id": 6,
     "product-name": "Arreglo de Flores y Peluche",
     "description": "Un hermoso arreglo de flores acompañado de un adorable peluche.",
     "stock": 50,
@@ -253,7 +259,7 @@
       "category": "RAMO",
       "target": "FEMENINO"
     },
-    "image-url": "https://example.com/image8.jpg",
+    "image-url": "https://cdn.openart.ai/uploads/image_8oufpWL8_1718240289459_512.webp",
     "company": {
       "company-name": "Detalles con Amor",
       "description": "Los mejores detalles para sorprender a tus seres queridos.",
@@ -281,6 +287,7 @@
   },
 
   {
+    "id": 7,
     "product-name": "Kit de Chocolates Gourmet",
     "description": "Una selección de chocolates gourmet ideal para cualquier ocasión especial.",
     "stock": 90,
@@ -299,7 +306,7 @@
       "category": "CHOCOLATES",
       "target": "PAREJAS"
     },
-    "image-url": "https://example.com/image9.jpg",
+    "image-url": "https://cdn.openart.ai/uploads/image_hD6P45er_1718240344636_512.webp",
     "company": {
       "company-name": "Delicias de Chocolate",
       "description": "Chocolates finos y deliciosos para cada momento especial.",
@@ -327,6 +334,7 @@
   },
 
   {
+    "id": 8,
     "product-name": "Desayuno Sorpresa Saludable",
     "description": "Un desayuno saludable con frutas frescas, yogur y granola.",
     "stock": 60,
@@ -345,7 +353,7 @@
       "category": "DESAYUNO",
       "target": "FEMENINO"
     },
-    "image-url": "https://example.com/image10.jpg",
+    "image-url": "https://cdn.openart.ai/uploads/image_obQD3RJa_1718240402961_512.webp",
     "company": {
       "company-name": "Desayunos Felices",
       "description": "Desayunos saludables y deliciosos para comenzar el día con una sonrisa.",
@@ -373,6 +381,7 @@
   },
 
   {
+    "id": 9,
     "product-name": "Ramo de Tulipanes",
     "description": "Un elegante ramo de tulipanes de colores variados, ideal para cualquier ocasión.",
     "stock": 70,
@@ -391,7 +400,7 @@
       "category": "RAMO",
       "target": "FEMENINO"
     },
-    "image-url": "https://example.com/image11.jpg",
+    "image-url": "https://cdn.openart.ai/uploads/image_3O4xQBht_1718240476048_512.webp",
     "company": {
       "company-name": "Florales Encantados",
       "description": "Flores encantadoras para momentos especiales.",
@@ -419,6 +428,7 @@
   },
 
   {
+    "id": 10,
     "product-name": "Cesta de Frutas Tropicales",
     "description": "Una deliciosa cesta de frutas tropicales frescas, perfecta para cualquier ocasión.",
     "stock": 80,
@@ -437,7 +447,7 @@
       "category": "REGALOS",
       "target": "FEMENINO"
     },
-    "image-url": "https://example.com/image12.jpg",
+    "image-url": "https://cdn.openart.ai/uploads/image_84ex4OEy_1718240545636_512.webp",
     "company": {
       "company-name": "Frutas y Delicias",
       "description": "Cestas de frutas y delicias frescas para cada momento especial.",
@@ -465,6 +475,7 @@
   },
 
   {
+    "id": 11,
     "product-name": "Desayuno Sorpresa",
     "description": "Delicioso desayuno que incluye jugo natural, café, medialunas y muffins.",
     "stock": 15,
@@ -483,7 +494,7 @@
       "category": "BREAKFAST",
       "target": "UNCATEGORIZED"
     },
-    "image-url": "https://example.com/desayuno.jpg",
+    "image-url": "https://cdn.openart.ai/uploads/image_L_stAKHe_1718240634666_512.webp",
     "company": {
       "company-name": "RegalosExpress",
       "description": "Empresa dedicada a la entrega de regalos a domicilio.",
@@ -511,6 +522,7 @@
   },
   
   {
+    "id": 12,
     "product-name": "Ramito de Rosas",
     "description": "Hermoso ramo de rosas rojas y blancas, ideal para expresar amor y afecto.",
     "stock": 20,
@@ -529,7 +541,7 @@
       "category": "BOUQUET",
       "target": "FEMALE"
     },
-    "image-url": "https://example.com/ramo-rosas.jpg",
+    "image-url": "https://cdn.openart.ai/uploads/image_xOy0FXpa_1718240716851_512.webp",
     "company": {
       "company-name": "Flores Para Ti",
       "description": "Empresa especializada en la entrega de arreglos florales a domicilio.",
@@ -557,6 +569,7 @@
   },
   
   {
+    "id": 13,
     "product-name": "Caja de Chocolates Deluxe",
     "description": "Deliciosa selección de chocolates belgas de alta calidad en una elegante caja.",
     "stock": 30,
@@ -575,7 +588,7 @@
       "category": "CHOCOLATES",
       "target": "UNCATEGORIZED"
     },
-    "image-url": "https://example.com/caja-chocolates.jpg",
+    "image-url": "https://cdn.openart.ai/uploads/image_lg2PPaZM_1718240780934_512.webp",
     "company": {
       "company-name": "ChocoDeluxe",
       "description": "Especialistas en chocolates gourmet y regalos exclusivos.",
@@ -603,6 +616,7 @@
   },
   
   {
+    "id": 14,
     "product-name": "Globo Metálico Personalizado",
     "description": "Globo metálico gigante con mensaje personalizado impreso, perfecto para sorprender en ocasiones especiales.",
     "stock": 25,
@@ -621,7 +635,7 @@
       "category": "BALOONS",
       "target": "UNCATEGORIZED"
     },
-    "image-url": "https://example.com/globo-metalico.jpg",
+    "image-url": "https://cdn.openart.ai/uploads/image_aNIdImq8_1718241029031_512.webp",
     "company": {
       "company-name": "Globos Creativos",
       "description": "Especialistas en globos personalizados para ocasiones especiales.",
@@ -649,6 +663,7 @@
   },
   
   {
+    "id": 15,
     "product-name": "Desayuno Especial",
     "description": "Desayuno completo con variedad de opciones: café, jugo, croissants, frutas y más.",
     "stock": 20,
@@ -667,7 +682,7 @@
       "category": "BREAKFAST",
       "target": "FEMALE"
     },
-    "image-url": "https://example.com/desayuno-especial.jpg",
+    "image-url": "https://cdn.openart.ai/uploads/image_aKpy1d4d_1718241106846_512.webp",
     "company": {
       "company-name": "Desayunos Deli",
       "description": "Especialistas en desayunos sorpresa de alta calidad y variedad.",
@@ -695,6 +710,7 @@
   },
   
   {
+    "id": 16,
     "product-name": "Caja de Regalo Premium",
     "description": "Caja de regalo elegante con una selección de productos gourmet y accesorios de lujo.",
     "stock": 15,
@@ -713,7 +729,7 @@
       "category": "GIFTS",
       "target": "UNCATEGORIZED"
     },
-    "image-url": "https://example.com/caja-regalo-premium.jpg",
+    "image-url": "https://cdn.openart.ai/uploads/image_H7ttuwXR_1718241171150_512.webp",
     "company": {
       "company-name": "Regalos de Lujo",
       "description": "Tienda exclusiva de regalos premium para ocasiones especiales.",
@@ -741,6 +757,7 @@
   },
   
   {
+    "id": 17,
     "product-name": "Peluche Oso Panda",
     "description": "Peluche suave y adorable de oso panda, perfecto para regalar a niños y amantes de los animales.",
     "stock": 40,
@@ -759,7 +776,7 @@
       "category": "PLUSH",
       "target": "KID"
     },
-    "image-url": "https://example.com/peluche-oso-panda.jpg",
+    "image-url": "https://cdn.openart.ai/uploads/image_FQo3Wdp4_1718241282427_512.webp",
     "company": {
       "company-name": "Peluchitos Tiernos",
       "description": "Tienda especializada en peluches adorables para todas las edades.",
@@ -787,6 +804,7 @@
   },
 
   {
+    "id": 18,
     "product-name": "Caja de Dulces Navideños",
     "description": "Una caja surtida de dulces navideños para compartir en familia.",
     "stock": 100,
@@ -805,7 +823,7 @@
       "category": "REGALOS",
       "target": "FAMILIAS"
     },
-    "image-url": "https://example.com/image13.jpg",
+    "image-url": "https://images.pexels.com/photos/4109461/pexels-photo-4109461.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "company": {
       "company-name": "Delicias Navideñas",
       "description": "Dulces tradicionales para celebrar la Navidad en familia.",
@@ -833,6 +851,7 @@
   },
 
   {
+    "id": 19,
     "product-name": "Set de Peluches y Dulces",
     "description": "Un adorable set de peluches acompañado de una variedad de dulces.",
     "stock": 70,
@@ -851,7 +870,7 @@
       "category": "PELUCHE",
       "target": "NIÑOS"
     },
-    "image-url": "https://example.com/image14.jpg",
+    "image-url": "https://images.pexels.com/photos/5477980/pexels-photo-5477980.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "company": {
       "company-name": "Regalos Tiernos",
       "description": "Los mejores regalos tiernos para los más pequeños.",
@@ -879,6 +898,7 @@
   },
 
   {
+    "id": 20,
     "product-name": "Desayuno Especial de Cumpleaños",
     "description": "Un desayuno especial con una selección de productos para celebrar un cumpleaños.",
     "stock": 50,
@@ -897,7 +917,7 @@
       "category": "DESAYUNO",
       "target": "PAREJAS"
     },
-    "image-url": "https://example.com/image15.jpg",
+    "image-url": "https://images.pexels.com/photos/7826293/pexels-photo-7826293.jpeg?auto=compress&cs=tinysrgb&w=600",
     "company": {
       "company-name": "Desayunos Sorpresa",
       "description": "Desayunos personalizados para hacer de cada celebración un momento especial.",
@@ -925,6 +945,7 @@
   },
 
   {
+    "id": 21,
     "product-name": "Caja de Regalos Gourmet",
     "description": "Una caja con una selección de productos gourmet para los amantes de la buena comida.",
     "stock": 60,
@@ -943,7 +964,7 @@
       "category": "REGALOS",
       "target": "PAREJAS"
     },
-    "image-url": "https://example.com/image16.jpg",
+    "image-url": "https://images.pexels.com/photos/5490820/pexels-photo-5490820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "company": {
       "company-name": "Sabores Exquisitos",
       "description": "Selección de productos gourmet para deleitar el paladar.",
@@ -971,6 +992,7 @@
   },
 
   {
+    "id": 22,
     "product-name": "Bouquet de Rosas Rojas",
     "description": "Un elegante bouquet de rosas rojas frescas, ideal para expresar amor y cariño.",
     "stock": 50,
@@ -989,7 +1011,7 @@
       "category": "RAMO",
       "target": "PAREJAS"
     },
-    "image-url": "https://example.com/image17.jpg",
+    "image-url": "https://images.pexels.com/photos/931177/pexels-photo-931177.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "company": {
       "company-name": "Amor en Flores",
       "description": "Los más hermosos ramos de flores para cada ocasión especial.",
@@ -1017,6 +1039,7 @@
   },
 
   {
+    "id": 23,
     "product-name": "Desayuno Sorpresa Premium",
     "description": "Un desayuno premium con una selección de productos de alta calidad.",
     "stock": 70,
@@ -1035,7 +1058,7 @@
       "category": "DESAYUNO",
       "target": "PAREJAS"
     },
-    "image-url": "https://example.com/image18.jpg",
+    "image-url": "https://images.pexels.com/photos/4397748/pexels-photo-4397748.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "company": {
       "company-name": "Desayunos Premium",
       "description": "Desayunos de alta calidad para comenzar el día de manera especial.",
@@ -1063,6 +1086,7 @@
   },
 
   {
+    "id": 24,
     "product-name": "Set de Globos y Chocolates",
     "description": "Un divertido set de globos acompañado de una caja de chocolates.",
     "stock": 80,
@@ -1081,7 +1105,7 @@
       "category": "GLOBOS",
       "target": "NIÑOS"
     },
-    "image-url": "https://example.com/image19.jpg",
+    "image-url": "https://images.pexels.com/photos/7281802/pexels-photo-7281802.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "company": {
       "company-name": "Diversión y Dulzura",
       "description": "Regalos divertidos y dulces para hacer sonreír a los más pequeños.",
@@ -1109,6 +1133,7 @@
   },
 
   {
+    "id": 25,
     "product-name": "Botella de Vino y Chocolates",
     "description": "Un elegante regalo que incluye una botella de vino tinto y una caja de chocolates finos.",
     "stock": 40,
@@ -1127,7 +1152,7 @@
       "category": "ALCOHOL",
       "target": "PAREJAS"
     },
-    "image-url": "https://example.com/image20.jpg",
+    "image-url": "https://images.pexels.com/photos/824205/pexels-photo-824205.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "company": {
       "company-name": "Regalos Gourmet",
       "description": "Regalos gourmet de alta calidad para ocasiones especiales.",
@@ -1155,6 +1180,7 @@
   },
 
   {
+    "id": 26,
     "product-name": "Caja de Regalo de Cumpleaños",
     "description": "Una caja sorpresa con una selección de regalos de cumpleaños.",
     "stock": 90,
@@ -1173,7 +1199,7 @@
       "category": "REGALOS",
       "target": "NIÑOS"
     },
-    "image-url": "https://example.com/image21.jpg",
+    "image-url": "https://images.pexels.com/photos/1264919/pexels-photo-1264919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "company": {
       "company-name": "Sorpresas y Alegrías",
       "description": "Las mejores sorpresas para celebrar cada cumpleaños.",
@@ -1201,6 +1227,7 @@
   },
 
   {
+    "id": 27,
     "product-name": "Desayuno Romántico",
     "description": "Un desayuno romántico con una selección de productos para compartir en pareja.",
     "stock": 50,
@@ -1219,7 +1246,7 @@
       "category": "DESAYUNO",
       "target": "PAREJAS"
     },
-    "image-url": "https://example.com/image22.jpg",
+    "image-url": "https://images.pexels.com/photos/6042358/pexels-photo-6042358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "company": {
       "company-name": "Amor en Desayuno",
       "description": "Desayunos románticos para celebrar el amor.",
@@ -1247,6 +1274,7 @@
   },
 
   {
+    "id": 28,
     "product-name": "Ramo de Flores Variadas",
     "description": "Un colorido ramo de flores variadas, perfecto para cualquier ocasión.",
     "stock": 80,
@@ -1265,7 +1293,7 @@
       "category": "RAMO",
       "target": "FEMENINO"
     },
-    "image-url": "https://example.com/image23.jpg",
+    "image-url": "https://images.pexels.com/photos/4637543/pexels-photo-4637543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "company": {
       "company-name": "Flores y Encantos",
       "description": "Hermosos ramos de flores para alegrar cualquier ocasión.",
@@ -1293,6 +1321,7 @@
   },
 
   {
+    "id": 29,
     "product-name": "Caja de Chocolates Finos",
     "description": "Una caja elegante con una selección de chocolates finos para los amantes del chocolate.",
     "stock": 90,
@@ -1311,7 +1340,7 @@
       "category": "CHOCOLATES",
       "target": "FEMENINO"
     },
-    "image-url": "https://example.com/image24.jpg",
+    "image-url": "https://images.pexels.com/photos/14275580/pexels-photo-14275580.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "company": {
       "company-name": "Chocolates Delicias",
       "description": "La mejor selección de chocolates finos para cada ocasión.",
@@ -1339,6 +1368,7 @@
   },
   
   {
+    "id": 30,
     "product-name": "Desayuno Sorpresa de Navidad",
     "description": "Un desayuno sorpresa con temática navideña, perfecto para comenzar las festividades.",
     "stock": 60,
@@ -1357,7 +1387,7 @@
       "category": "DESAYUNO",
       "target": "FAMILIAS"
     },
-    "image-url": "https://example.com/image25.jpg",
+    "image-url": "https://images.pexels.com/photos/302468/pexels-photo-302468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "company": {
       "company-name": "Navidad en Desayuno",
       "description": "Desayunos temáticos para celebrar la Navidad en familia.",
