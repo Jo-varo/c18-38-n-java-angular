@@ -1,0 +1,23 @@
+<div class="py-10 max-w-[800px] mx-auto">
+  <article class="flex gap-6">
+    <div style="flex:3">
+      <img
+        src="https://i0.wp.com/www.southsideblooms.com/wp-content/uploads/2023/01/pexels-lisa-2106037.jpg?w=1200&ssl=1"
+        alt="flowers"
+        class="aspect-[9/12]"
+      />
+    </div>
+    <div style="flex:4">
+      <small class="text-sm">{{product?.features?.category}}</small>
+      <h1 class="text-4xl font-bold mb-4">{{product?.['product-name']}}</h1>
+      <p>
+        {{product?.description}}
+      </p>
+      <span class="text-3xl mt-4">Precio: <b>${{product?.price}}</b></span>
+      <button class="block bg-custom-purple px-4 py-3 text-white mt-8 transition-transform duration-300 hover:scale-105">
+        Compra ahora
+      </button>
+    </div>
+  </article>
+  <app-comments [comments]="product?.company?.comments ?? []"></app-comments>
+</div>

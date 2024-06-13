@@ -1,0 +1,28 @@
+<h2 class="text-3xl mt-8 mb-4">Comentarios</h2>
+<div class="flex flex-col gap-6">
+  @for (comment of parsedComments; track comment.id) {
+  <div class="flex justify-between gap-6">
+    <div style="flex: 1" class="text-center">
+      <h4 class="font-bold text-lg">{{ comment["user-name"] }}</h4>
+      <p>
+        @for(n of generateArray(comment.rate); track n;let idx=$index ; let
+        lastStar = $last){ @if(!lastStar){
+        <mat-icon aria-hidden="false" aria-label="Star icon" fontIcon="star" />
+        }@else{ @if (idx + 1 === comment.rate) {
+        <mat-icon aria-hidden="false" aria-label="Star icon" fontIcon="star" />
+        }@else {
+        <mat-icon
+          aria-hidden="false"
+          aria-label="Half star icon"
+          fontIcon="star_half"
+        />
+        } } }
+        {{ comment.rate }}
+      </p>
+    </div>
+    <p style="flex: 5" class="bg-custom-gray p-2 rounded">
+      {{ comment["comment-body"] }}
+    </p>
+  </div>
+  }
+</div>
