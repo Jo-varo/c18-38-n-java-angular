@@ -33,7 +33,7 @@ export class HomeComponent implements OnInit {
   filterProductsByLocation(location: string){
     if(location != ""){
       this.products = this.mock.default;
-      this.products = this.products.filter((product) => product.location.city.toLocaleLowerCase() === location);
+      this.products = this.products.filter((product) => product.location.city.toLocaleLowerCase().includes(location));
     }else{
       this.products = this.mock.default;
     }

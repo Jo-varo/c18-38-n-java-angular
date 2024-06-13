@@ -1,15 +1,22 @@
 <div class="banner">
-  <img src="logos/logo.png" alt="logoObsequiWorld">
-  <h1 class="kristi-regular">Regala a domicilio donde quiera que te encuentres</h1>
+  <img src="logos/logo.png" alt="logoObsequiWorld" />
+  <h1 class="kristi-regular">
+    Regala a domicilio donde quiera que te encuentres
+  </h1>
 </div>
 <div class="search-bar">
-  <app-search-bar (searchButtonEvent)="filterProductsByLocation($event)"></app-search-bar>
+  <app-search-bar
+    (searchButtonEvent)="filterProductsByLocation($event)"
+  ></app-search-bar>
 </div>
 <div class="categories">
   <app-categories></app-categories>
 </div>
-<div class="flex flex-col items-center">
-  <div class="flex flex-wrap w-1/2 gap-4 justify-around p-4">
-    <app-product *ngFor="let singleProduct of products" [product]="singleProduct"></app-product>
-  </div>
+<div
+  class="grid grid-cols-[repeat(auto-fill,_minmax(220px,_1fr))] max-w-[1200px] gap-6 mx-auto my-10"
+>
+  <app-product
+    *ngFor="let singleProduct of products"
+    [product]="singleProduct"
+  ></app-product>
 </div>

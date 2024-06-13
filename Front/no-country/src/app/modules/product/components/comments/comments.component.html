@@ -4,7 +4,7 @@
   <div class="flex justify-between gap-6">
     <div style="flex: 1" class="text-center">
       <h4 class="font-bold text-lg">{{ comment["user-name"] }}</h4>
-      <p>
+      <div>
         @for(n of generateArray(comment.rate); track n;let idx=$index ; let
         lastStar = $last){ @if(!lastStar){
         <mat-icon aria-hidden="false" aria-label="Star icon" fontIcon="star" />
@@ -17,6 +17,8 @@
           fontIcon="star_half"
         />
         } } }
+      </div>
+      <p class="-mt-2">
         {{ comment.rate }}
       </p>
     </div>

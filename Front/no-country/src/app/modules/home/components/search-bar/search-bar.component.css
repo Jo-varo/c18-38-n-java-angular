@@ -1,6 +1,6 @@
 .containers {
+  @apply pt-12 pb-6;
   background: linear-gradient(270deg, #7ebfbf 24.28%, #b2cce3 99.79%);
-  padding: 2.5rem 0;
 }
 
 .containers > form {

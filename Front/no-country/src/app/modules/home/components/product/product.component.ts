@@ -1,24 +1,16 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { MatButtonModule } from '@angular/material/button';
+import { RouterLink } from '@angular/router';
 
 @Component({
   standalone: true,
   selector: 'app-product',
   templateUrl: './product.component.html',
   styleUrls: ['./product.component.css'],
-  imports: [MatButtonModule]
+  imports: [MatButtonModule, RouterLink],
 })
-export class ProductComponent implements OnInit {
-
+export class ProductComponent {
   @Input() product: any;
 
-  constructor() { }
-
-  ngOnInit() {
-  }
-
-  viewProduct(){
-    console.log("You have pressed me");
-  }
-
+  constructor() {}
 }
