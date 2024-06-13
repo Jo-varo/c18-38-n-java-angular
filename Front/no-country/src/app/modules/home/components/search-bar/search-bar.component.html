@@ -1,8 +1,8 @@
 <div class="containers">
-  <div>
+  <form [formGroup]="searchForm" (ngSubmit)="search()">
     <mat-form-field>
       <mat-label>Ubicación</mat-label>
-      <input matInput placeholder="Placeholder" />
+      <input matInput placeholder="Placeholder" formControlName="city"/>
       <mat-icon matSuffix>location_on</mat-icon>
     </mat-form-field>
     <mat-form-field>
@@ -15,5 +15,5 @@
       <mat-datepicker #dp></mat-datepicker>
     </mat-form-field>
     <button mat-raised-button color="accent">Buscar</button>
-  </div>
+  </form>
 </div>

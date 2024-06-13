@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, EventEmitter, OnInit, Output, output } from '@angular/core';
 import { MatButtonModule } from '@angular/material/button';
 import { MatDatepickerModule } from '@angular/material/datepicker';
 import { MatFormFieldModule } from '@angular/material/form-field';
@@ -9,6 +9,12 @@ import { MAT_DATE_LOCALE } from '@angular/material/core';
 import * as _moment from 'moment';
 import { default as _rollupMoment } from 'moment';
 import 'moment/locale/es';
+import {
+  FormControl,
+  FormGroup,
+  FormsModule,
+  ReactiveFormsModule,
+} from '@angular/forms';
 
 const moment = _rollupMoment || _moment;
 
@@ -39,10 +45,23 @@ export const MY_FORMATS = {
     MatDatepickerModule,
     MatIconModule,
     MatButtonModule,
+    ReactiveFormsModule,
   ],
 })
 export class SearchBarComponent implements OnInit {
+  @Output() searchButtonEvent = new EventEmitter<string>();
+
+  searchForm = new FormGroup({
+    city: new FormControl(''),
+  });
+
   constructor() {}
 
   ngOnInit() {}
+
+  search() {
+    let city = this.searchForm.get('city')?.value ?? '';
+    city = city.toLocaleLowerCase();
+    this.searchButtonEvent.emit(city);
+  }
 }

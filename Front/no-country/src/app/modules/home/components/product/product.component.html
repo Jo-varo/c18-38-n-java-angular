@@ -1,3 +1,16 @@
-<p>
-  product works!
-</p>
+<div class="flex flex-col items-center max-w-40 h-96 bg-custom-white p-3 cursor-pointer" (click)="viewProduct()">
+  <div class="bg-indigo-300">
+    <img
+      class="object-contain h-32"
+      src="https://media.admagazine.com/photos/641239e4d3f4fe9a251b2477/1:1/w_1999,h_1999,c_limit/destinos-para-bodas.jpg"
+      alt="Ramos Frutales DecoFruit"
+    />
+  </div>
+  <div class="flex flex-col">
+    <p class="font-bold">{{ product["product-name"] }}</p>
+    <p>{{ product["description"] }}</p>
+    <p class="font-bold">${{ product["price"] }}</p>
+  </div>
+  <button mat-stroked-button color="accent">Agregar a carrito</button>
+  <button mat-stroked-button color="accent">Comprar ahora</button>
+</div>
