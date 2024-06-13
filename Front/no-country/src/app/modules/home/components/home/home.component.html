@@ -3,7 +3,7 @@
   <h1 class="kristi-regular">Regala a domicilio donde quiera que te encuentres</h1>
 </div>
 <div class="search-bar">
-  <app-search-bar (searchButtonEvent)="filterProducts($event)"></app-search-bar>
+  <app-search-bar (searchButtonEvent)="filterProductsByLocation($event)"></app-search-bar>
 </div>
 <div class="categories">
   <app-categories></app-categories>
@@ -13,4 +13,3 @@
     <app-product *ngFor="let singleProduct of products" [product]="singleProduct"></app-product>
   </div>
 </div>
-
