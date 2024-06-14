@@ -1,6 +1,7 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { MatButtonModule } from '@angular/material/button';
 import { RouterLink } from '@angular/router';
+import Swal from 'sweetalert2';
 
 @Component({
   standalone: true,
@@ -13,4 +14,12 @@ export class ProductComponent {
   @Input() product: any;
 
   constructor() {}
+
+  openAlert(name: string) {
+    Swal.fire({
+      title: '¡Compraste este producto!',
+      text: name,
+      icon: 'success',
+    });
+  }
 }
